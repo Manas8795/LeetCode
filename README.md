@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Manas8795/LeetCode/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/Manas8795/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0303-range-sum-query-immutable](https://github.com/Manas8795/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manas8795/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Design
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manas8795/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Manas8795/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Manas8795/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
