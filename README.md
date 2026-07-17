@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manas8795/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Manas8795/LeetCode/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manas8795/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manas8795/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manas8795/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manas8795/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
