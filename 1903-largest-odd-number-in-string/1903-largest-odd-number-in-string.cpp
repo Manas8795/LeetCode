@@ -12,10 +12,8 @@ public:
             }
         }
         string st = "";
-        for(int i = 0;i<=x;i++)
-        {
-            st += num[i];
-        }
+        if(x == -1)
         return st;
+        return num.substr(0,x+1);
     }
 };
