@@ -19,7 +19,7 @@ public:
             if(m.count(temp)>0) return temp;
             else
             {
-                m[temp] == x;
+                m[temp] = x;
                 x++;
             }
             temp = temp->next;
