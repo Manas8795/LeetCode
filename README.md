@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Manas8795/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Manas8795/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Manas8795/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manas8795/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Manas8795/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Manas8795/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Manas8795/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manas8795/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manas8795/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Manas8795/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Manas8795/LeetCode/tree/master/0342-power-of-four) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Manas8795/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Pigeonhole Principle
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Manas8795/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manas8795/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Manas8795/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manas8795/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Manas8795/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Manas8795/LeetCode/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
