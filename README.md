@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manas8795/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Manas8795/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Manas8795/LeetCode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Manas8795/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Manas8795/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Manas8795/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manas8795/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Manas8795/LeetCode/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manas8795/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
