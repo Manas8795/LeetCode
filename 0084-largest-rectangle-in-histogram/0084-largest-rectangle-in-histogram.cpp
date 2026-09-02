@@ -1,66 +1,47 @@
-
 class Solution {
 public:
-    int largestRectangleArea(vector<int>& nums) {
-        vector<int> nse;
-        vector<int> pse;
-        pse = psc(nums);
-        nse = nsc(nums);
-        int maxarea = 0;
-        for (int i : nse)
-            cout << i << " ";
-        for(int i = 0;i<nums.size();i++)
+    int largestRectangleArea(vector<int>& h) {
+        stack<int> s;
+        int maxa = 0;
+
+        for(int i = 0; i <= h.size(); i++)
         {
-           maxarea = max(maxarea,(nse[i] - pse[i] - 1) * nums[i]); 
-        }
-        return maxarea;
-    }
-
-    vector<int> nsc(const vector<int>& arr) {
-        vector<int> fin(arr.size());
-        stack<int> s;
-
-        for (int i = arr.size() - 1; i >= 0; i--) {
-            if (s.empty())
-                fin[i] = arr.size();
-            else {
-                while (!s.empty() && arr[i] <= arr[s.top()]) {
+            if(i == h.size())
+            {
+                while(!s.empty())
+                {
+                    int idx = s.top();
                     s.pop();
+
+                    int left;
+                    if(s.empty()) left = -1;
+                    else left = s.top();
+
+                    int width = i - left - 1;
+
+                    maxa = max(maxa, width * h[idx]);
+                }
+            }
+            else
+            {
+                while(!s.empty() && h[s.top()] > h[i])
+                {
+                    int idx = s.top();
+                    s.pop();
+
+                    int left;
+                    if(s.empty()) left = -1;
+                    else left = s.top();
+
+                    int width = i - left - 1;
+
+                    maxa = max(maxa, width * h[idx]);
                 }
 
-                if (s.empty())
-                    fin[i] = arr.size();
-                else
-                    fin[i] = s.top();
+                s.push(i);
             }
-
-            s.push(i);
         }
 
-        return fin;
-    }
-
-    vector<int> psc(const vector<int>& nums) {
-        vector<int> fin(nums.size());
-        stack<int> s;
-
-        for (int i = 0; i < nums.size(); i++) {
-            if (s.empty())
-                fin[i] = -1;
-            else {
-                while (!s.empty() && nums[s.top()] > nums[i]) {
-                    s.pop();
-                }
-
-                if (s.empty())
-                    fin[i] = -1;
-                else
-                    fin[i] = s.top();
-            }
-
-            s.push(i);
-        }
-
-        return fin;
+        return maxa;
     }
 };
