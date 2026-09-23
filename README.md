@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Manas8795/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Manas8795/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manas8795/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String
 |  |
 | ------- |
@@ -406,13 +407,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Manas8795/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manas8795/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Manas8795/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manas8795/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manas8795/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
