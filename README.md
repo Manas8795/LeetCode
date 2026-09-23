@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manas8795/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
 ## String
 |  |
 | ------- |
@@ -397,4 +398,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Manas8795/LeetCode/tree/master/0460-lfu-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
