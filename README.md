@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Manas8795/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Manas8795/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/Manas8795/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Manas8795/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Manas8795/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manas8795/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manas8795/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Manas8795/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Manas8795/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Manas8795/LeetCode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Manas8795/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Manas8795/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manas8795/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Manas8795/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Manas8795/LeetCode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Manas8795/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Manas8795/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manas8795/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manas8795/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
