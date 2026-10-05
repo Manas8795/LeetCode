@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Manas8795/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Manas8795/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Manas8795/LeetCode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manas8795/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manas8795/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Manas8795/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Manas8795/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manas8795/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Manas8795/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manas8795/LeetCode/tree/master/0733-flood-fill) |
@@ -432,4 +434,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manas8795/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manas8795/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manas8795/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
