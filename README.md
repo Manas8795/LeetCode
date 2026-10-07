@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Manas8795/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Manas8795/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Manas8795/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Manas8795/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Manas8795/LeetCode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Manas8795/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Manas8795/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Manas8795/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Manas8795/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Manas8795/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Manas8795/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Manas8795/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Manas8795/LeetCode/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Manas8795/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manas8795/LeetCode/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manas8795/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
