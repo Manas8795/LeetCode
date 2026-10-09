@@ -1,68 +1,29 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        string test = "";
-        int count = 0;
-        for(int i = 0;i<s.size();i++)
+        int back = 0;
+        int front = 0;
+        int front2 = 0;
+        for(int i =0;i<s.size();i++)
         {
-            if(s[i]==')' && i == s.size()-1) 
+            if(s[i]=='(')
             {
-                count++;
-                test+=')';
-                break;
-            }
-            else if(s[i]==')' && s[i+1] ==')')
-            {
-                test+=s[i];
-                i++;
-            }
-            else if(s[i]==')' && s[i+1]!=')') 
-            {
-                count++;
-                test+=')';
+                front++;
             }
             else
             {
-                test+=s[i];
-            }
-        }
-        cout<<test<<endl;
-        stack<char> st;
-        for(int i = 0;i<test.size();i++)
-        {
-            if(test[i]=='(') 
-            {
-                st.push(test[i]);
-                cout<<"a";
-            }
-            if(test[i]==')') 
-            {
-                if(!st.empty() && st.top() =='(')
+                if(i<s.size()-1 && s[i+1]==')')
                 {
-                    st.pop();
-                    cout<<"b";
+                    i++;
                 }
                 else
                 {
-                    st.push(test[i]);
-                    cout<<"c";
+                    back++;
                 }
+                if(front>0) front--;
+                else front2++;
             }
         }
-        while(!st.empty())
-        {
-            char x = st.top();
-            if(x == '(') count+=2;
-            else count++;
-            st.pop();
-            // cout<<x<<" ";
-        }
-        // for(int i = 0;i<test.size();i++)
-        // {
-        //     if(test[i] == '(')fcount++;
-        //     if(test[i]==')')bcount++;
-        //     if(bcount>fcount) count++;
-        // }
-        return count;
+        return back + front*2 + front2;
     }
 };
