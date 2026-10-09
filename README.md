@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Manas8795/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Manas8795/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manas8795/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Manas8795/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Manas8795/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Manas8795/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Manas8795/LeetCode/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manas8795/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Manas8795/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Manas8795/LeetCode/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manas8795/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
