@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Manas8795/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manas8795/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manas8795/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manas8795/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Manas8795/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manas8795/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manas8795/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manas8795/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manas8795/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manas8795/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Manas8795/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manas8795/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manas8795/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manas8795/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manas8795/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
