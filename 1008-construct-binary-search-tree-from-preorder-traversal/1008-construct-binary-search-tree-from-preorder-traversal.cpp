@@ -11,45 +11,23 @@
  */
 class Solution {
 public:
-    TreeNode* x(int &index,int i,int j,vector<int> inorder,vector<int> preorder)
-    {
-    
-        if(i>j) return NULL;
-        int rval = preorder[index++];
-        TreeNode* node = new TreeNode();
-        node->val = rval;
-        int rpos = -1;
-        for(int p = i;p<=j;p++)
-        {
-            if(inorder[p] == rval) 
-            {
-                rpos = p;
-                break;
-            }
-        }
-        node->left = x(index,i,rpos-1,inorder,preorder);
-        node->right = x(index,rpos+1,j,inorder,preorder);
-        return node;
-
-    }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        if(preorder.empty()) return NULL;
-        vector<int> in = preorder;
-        sort(in.begin(),in.end());
-        int rval = preorder[0];
-        for(int i = 0;i<preorder.size();i++)
-        {
-            if(rval == in[i])
-            {
-                rval = i;
-                break;
-            }
+        if(preorder.size() == 0){
+            return nullptr;
         }
-        int i = 1;
-        TreeNode* root = new TreeNode();
-        root->val = preorder[0];
-        root->left = x(i,0,rval-1,in,preorder);
-        root->right = x(i,rval+1,preorder.size()-1,in,preorder);
-        return root;
+        return bst(preorder, INT_MAX);
+    }
+    int i = 0;
+    TreeNode *bst(vector<int> &preorder, int range){
+        if(i >= preorder.size() || preorder[i] > range){
+            return nullptr;
+        }
+        TreeNode *node = new TreeNode(preorder[i]);
+        i++;
+
+        node->left = bst(preorder, node->val);
+        node->right = bst(preorder, range);
+
+        return node;
     }
 };
