@@ -1,45 +1,37 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
-public:
-    void inorder(TreeNode* root, vector<int>& in)
-    {
-        if(root == NULL ) return;
-        inorder(root->left,in);
-        in.push_back(root->val);
-        inorder(root->right,in);
-    }
-    void dfs(TreeNode* root,TreeNode*& p,TreeNode*& q,vector<int> & errors)
-    {
-        if(root == NULL) return;
-        if(root->val == errors[0]) p = root;
-        if(root->val == errors[1]) q = root;
-        dfs(root->left,p,q,errors);
-        dfs(root->right,p,q,errors);
-    }
-    void recoverTree(TreeNode* root) {
-        vector<int> in;
-        inorder(root,in);
-        vector<int> sorted = in;
-        sort(sorted.begin(),sorted.end());
-        vector<int> errors;
-        for(int i = 0;i<in.size();i++)
-        {
-            if(sorted[i] != in[i]) errors.push_back(in[i]);
-            // cout<<in[i]<<":"<<sorted[i]<<endl;
+private:
+    TreeNode* first = nullptr;
+    TreeNode* prev = nullptr;
+    TreeNode* middle = nullptr;
+    TreeNode* last = nullptr;
+
+    void inorder(TreeNode* root) {
+        if (root == nullptr) return;
+
+        inorder(root->left);
+
+        if (prev != nullptr && root->val < prev->val) {
+            if (first == nullptr) {
+                first = prev;
+                middle = root;
+            } else {
+                last = root;
+            }
         }
-        TreeNode* p = new TreeNode();
-        TreeNode* q = new TreeNode();
-        dfs(root,p,q,errors);
-        if(p && q) swap(p->val , q->val);
+        prev = root;
+
+        inorder(root->right);
+    }
+
+public:
+    void recoverTree(TreeNode* root) {
+        first = middle = last = prev = nullptr;
+        inorder(root);
+
+        if (first && last) {
+            swap(first->val, last->val);
+        } else if (first && middle) {
+            swap(first->val, middle->val);
+        }
     }
 };
