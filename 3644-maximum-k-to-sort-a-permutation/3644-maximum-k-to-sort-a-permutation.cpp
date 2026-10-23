@@ -3,12 +3,14 @@ public:
     int sortPermutation(vector<int>& nums) {
         int n = nums.size();
         vector<int> sorted = nums;
-        sort(sorted.begin(),sorted.end());
         int k = INT_MAX;
-
+        bool f = false;
         for(int i = 0;i<n;i++)
-        {
-            if(sorted[i]!=nums[i]) k = k & nums[i];
+        {   
+            if(nums[i]!= i) 
+            {
+                k = k & nums[i];
+            }            
         }
         if(k == INT_MAX) return 0;
         return k;
